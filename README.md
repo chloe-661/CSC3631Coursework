@@ -1,2 +1,4 @@
 # CSC3631Coursework
-Cryptography Module - 3rd Year
+Newcastle University - 2021/22 - 3rd Year
+
+  CRYPTOGRAPHY MODULE
