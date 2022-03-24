@@ -7,3 +7,19 @@ Newcastle University - 2021/22 - 3rd Year
 		
 	Coursework 1 (5 quizzes) Submitted: 12/11/2021
 	Coursework 2 (5 quizzes) Submitted: 07/01/2022
+	
+Marks and Feedback
+
+	COURSEWORK 1
+	
+	Marks: 14.5/20
+	Feedback: 
+		...
+		
+.
+
+	COURSEWORK2
+	
+	Marks: 15.92
+	Feedback:
+		...
